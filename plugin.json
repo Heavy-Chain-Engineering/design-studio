@@ -1,0 +1,7 @@
+{
+  "name": "design-studio",
+  "description": "Heavy Chain Design Studio. Guided visual design loop for technical minds. Helps engineers build clean, non-terrible UI without getting trapped in generic AI slop through in-situ browser harnesses and contrastive iteration.",
+  "version": "1.0.0-alpha",
+  "author": "Heavy Chain",
+  "license": "MIT"
+}
